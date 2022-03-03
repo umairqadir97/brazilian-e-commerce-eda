@@ -26,75 +26,90 @@
 </p>
 
 
-
+<p align="center">
 <a href="#">
-    <img src="slides/Axya-E-Commerce-Case-Study-01.png" alt="Logo" width="600" height="400">
+    <img src="slides/Axya-E-Commerce-Case-Study-01.png" alt="Logo" width="700" height="450">
+</a>
+
+
+<p align="center">
+<a href="#">
+    <img src="slides/Case-Study-02.png" alt="Logo" width="700" height="400">
+</a>
+
+
+<p align="center">
+<a href="#">
+    <img src="slides/Axya E-Commerce Case Study-03.png" alt="Logo" width="700" height="400">
+</a>
+
+
+<p align="center">
+<a href="#">
+    <img src="slides/Case-Study-04.png" alt="Logo" width="700" height="400">
 </a>
 
 
 <a href="#">
-    <img src="slides/Case-Study-02.png" alt="Logo" width="600" height="400">
+    <img src="slides/Case-Study-05.png" alt="Logo" width="700" height="400">
 </a>
 
 
+<p align="center">
 <a href="#">
-    <img src="slides/Case-Study-03.png" alt="Logo" width="600" height="400">
+    <img src="slides/Case-Study-06.png" alt="Logo" width="700" height="400">
 </a>
 
 
+<p align="center">
 <a href="#">
-    <img src="slides/Case-Study-04.png" alt="Logo" width="600" height="400">
+    <img src="slides/Case-Study-07.png" alt="Logo" width="700" height="400">
+</a>
+
+<p align="center">
+<a href="#">
+    <img src="slides/Case-Study-08.png" alt="Logo" width="700" height="400">
+</a>
+
+<p align="center">
+<a href="#">
+    <img src="slides/Case-Study-09.png" alt="Logo" width="700" height="400">
 </a>
 
 
+<p align="center">
 <a href="#">
-    <img src="slides/Case-Study-05.png" alt="Logo" width="600" height="400">
+    <img src="slides/Case-Study-10.png" alt="Logo" width="700" height="400">
 </a>
 
 
+<p align="center">
 <a href="#">
-    <img src="slides/Case-Study-06.png" alt="Logo" width="600" height="400">
+    <img src="slides/Case-Study-11.png" alt="Logo" width="700" height="400">
 </a>
 
 
+<p align="center">
 <a href="#">
-    <img src="slides/Case-Study-07.png" alt="Logo" width="600" height="400">
-</a>
-
-<a href="#">
-    <img src="slides/Case-Study-08.png" alt="Logo" width="600" height="400">
-</a>
-
-<a href="#">
-    <img src="slides/Case-Study-09.png" alt="Logo" width="600" height="400">
+    <img src="slides/Case-Study-12.png" alt="Logo" width="700" height="400">
 </a>
 
 
+<p align="center">
 <a href="#">
-    <img src="slides/Case-Study-10.png" alt="Logo" width="600" height="400">
+    <img src="slides/Case-Study-13.png" alt="Logo" width="700" height="400">
 </a>
 
 
+<p align="center">
 <a href="#">
-    <img src="slides/Case-Study-11.png" alt="Logo" width="600" height="400">
+    <img src="slides/Case-Study-14.png" alt="Logo" width="700" height="400">
 </a>
 
 
+<p align="center">
 <a href="#">
-    <img src="slides/Case-Study-12.png" alt="Logo" width="600" height="400">
-</a>
-
-<a href="#">
-    <img src="slides/Case-Study-13.png" alt="Logo" width="600" height="400">
-</a>
-
-<a href="#">
-    <img src="slides/Case-Study-14.png" alt="Logo" width="600" height="400">
-</a>
-
-
-<a href="#">
-    <img src="slides/Case-Study-15.png" alt="Logo" width="600" height="400">
+    <img src="slides/Case-Study-15.png" alt="Logo" width="700" height="400">
 </a>
 
 
