@@ -13,7 +13,7 @@
 <p align="center">
 <h3 align="center">Brazilian E-Commerce Public Dataset EDA</h3>
   <p align="center">
-    This flask api is tiny part of a whole system implementing data-warehouse.
+    A brief analysis and customer segmentation ideas for Brazilian E-Commerce Public <a href="https://www.kaggle.com/olistbr/brazilian-ecommerce">Dataset</a>.
     <br />
     <br />
     <br />
