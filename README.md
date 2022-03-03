@@ -19,9 +19,9 @@
     <br />
     <a href="mailto:umairqadir97@gmail.com">Request Demo</a>
     ·
-    <a href="https://github.com/umairqadir97/scaling_flask_api/issues">Report Bug</a>
+    <a href="https://github.com/umairqadir97/brazilian-e-commerce-eda/issues">Report Bug</a>
     ·
-    <a href="https://github.com/umairqadir97/scaling_flask_api/issues">Request Feature</a>
+    <a href="https://github.com/umairqadir97/brazilian-e-commerce-eda/issues">Request Feature</a>
   </p>
 </p>
 
